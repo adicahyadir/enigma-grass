@@ -9,7 +9,7 @@
 pip install -r requirements.txt
 ```
 
-### Registration: [Sign Up Here](https://app.getgrass.io/register?referralCode=gUus7rmtotluawp)
+### Registration Grass Account : [Sign Up Here](https://app.getgrass.io/register?referralCode=gUus7rmtotluawp)
 
 ## How to Use
 #### Obtaining Your Grass User ID
