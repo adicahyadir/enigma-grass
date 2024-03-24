@@ -109,7 +109,7 @@ def run_async(loop):
     loop.run_forever()
 
 async def main():
-    _user_ids = input(' Enter your user ID Your Grass : ').split(',')
+    _user_ids = input(' Enter Your Grass userID : ').split(',')
     with open('proxy_list.txt', 'r') as file:
         socks5_proxy_list = file.read().splitlines()
 
