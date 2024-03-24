@@ -24,6 +24,9 @@ localStorage.getItem('userId')
 - Open the file named `proxy_list.txt` and insert your proxies.
 - Run `python run.py` and input your user ID when prompted.
 
-- For multiple accounts, each with its own proxy:
+
+#### SOON
+ 
+For multiple accounts, each with its own proxy:
   - Insert your account user IDs into `user_id.txt` and your proxies into `proxy_list(all).txt`.
   - Then run `python foreachuser_id_proxy.py`.
